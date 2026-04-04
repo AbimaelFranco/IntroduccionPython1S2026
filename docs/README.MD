@@ -7,7 +7,7 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 
 ## 📚 Sesiones
 
-### 🟢 [Sesión 1: Introducción y Primeros Pasos](./IPP_Sesion1.ipynb)
+### 🟢 [Sesión 2: Introducción y Primeros Pasos](./IPP_Sesion2_1S2026.ipynb)
 - Presentación del curso y dinámica de trabajo.  
 - Instalación y configuración (Python + IDE).  
 - Primer programa:  ```print("Hola Mundo") ```
@@ -15,7 +15,7 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Variables y tipos de datos (int, float, str, bool).
 - Operadores aritméticos y de asignación.
 
-### 🟢 [Sesión 2: Lógica condicional y ciclos](./IPP_Sesion2.ipynb)
+### 🟢 [Sesión 3: Lógica condicional y ciclos](./IPP_Sesion3_1S2026.ipynb)
 - Operadores lógicos (and, or, not). 
 - Función input().
 - Conversión de tipos de datos.
