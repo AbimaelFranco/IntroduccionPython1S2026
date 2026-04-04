@@ -13,7 +13,7 @@
 
 ## Descripción
 
-Este repositorio contiene los materiales, ejemplos y ejercicios del curso **Introducción a la Programación con Python**, impartido en los Cursos Libres de la USAC durante 2025. El curso está diseñado para que los estudiantes aprendan los fundamentos de Python, estructuras de datos, funciones, manejo de archivos, desarrollo de scripts y una introducción a interfaces web con Flask.
+Este repositorio contiene los materiales, ejemplos y ejercicios del curso **Introducción a la Programación con Python**, impartido en los Cursos Libres de la USAC durante 2026. El curso está diseñado para que los estudiantes aprendan los fundamentos de Python, estructuras de datos, funciones, manejo de archivos, desarrollo de scripts y una introducción a interfaces web con Flask.
 
 El objetivo es que al finalizar el curso, los estudiantes sean capaces de desarrollar programas sencillos, scripts útiles y pequeñas aplicaciones web, aplicando buenas prácticas de programación.
 
