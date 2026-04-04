@@ -4,14 +4,9 @@
 [![Lenguaje: Python](https://img.shields.io/badge/Lenguaje-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-< !-- <p align="center">
-  <img src="https://usac.edu.gt/wp-content/uploads/2022/08/cropped-logoUSAC2018.jpg" alt="Logo USAC" width="200"/>
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Logo Python" width="200" style="margin-right:20px;"/>
-</p>
-
 <p align="center">
   <img src="assets/Banner.png" alt="Banner" width="800"/>
-</p> -- > 
+</p> 
 
 ---
 
