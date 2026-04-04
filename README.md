@@ -1,6 +1,6 @@
 # Introducción a la Programación con Python
 
-[![Curso 2026](https://img.shields.io/badge/Curso-Cursos%20Libres%202025-blue)](https://www.usac.edu.gt/)
+[![Curso 2026](https://img.shields.io/badge/Curso-Cursos%20Libres%202026-blue)](https://www.usac.edu.gt/)
 [![Lenguaje: Python](https://img.shields.io/badge/Lenguaje-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
