@@ -22,7 +22,7 @@ Todo el contenido está organizado por sesiones y se presenta en **cuadernos de 
 - Condicionales (if, elif, else).
 - Ciclo while.
 
-### 🟢 [Sesión 4: Estructuras de datos y funciones](./IPP_Sesion4_1S2026.ipynb)
+### 🟢 [Sesión 4: Estructuras de datos y ciclo for](./IPP_Sesion4_1S2026.ipynb)
 - Estructuras de datos: listas, tuplas y diccionarios.
 - Estrucutra de control for.
 - Controladores de flujo: break y continue
