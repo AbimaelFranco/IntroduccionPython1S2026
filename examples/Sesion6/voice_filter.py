@@ -1,3 +1,9 @@
+# =========================
+# INSTALACIÓN DE LIBRERÍAS
+# =========================
+
+# pip install numpy matplotlib sounddevice
+
 import tkinter as tk
 import numpy as np
 import sounddevice as sd
