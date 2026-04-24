@@ -1,28 +1,36 @@
 # 📘 Documentación del Curso
 
-Este directorio contiene el material de apoyo y apuntes del curso.  
-Todo el contenido está organizado por sesiones y se presenta en **cuadernos de Google Colab (`.ipynb`)**.
+Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ---
 
 ## 📚 Sesiones
 
-### 🟢 [Sesión 2: Introducción y Primeros Pasos](./IPP_Sesion2_1S2026.ipynb)
-- Presentación del curso y dinámica de trabajo.  
-- Instalación y configuración (Python + IDE).  
-- Primer programa:  ```print("Hola Mundo") ```
-- Sintaxis básica: indentación, comentarios.
-- Variables y tipos de datos (int, float, str, bool).
-- Operadores aritméticos y de asignación.
+### 🟢 [Computer_Vision](./Computer_Vision)
+- Rastreo de mano
+- Seguimiento de puntos de referencia
+- Utilización de OpenCV y Mediapipe
 
-### 🟢 [Sesión 3: Lógica condicional y ciclos](./IPP_Sesion3_1S2026.ipynb)
-- Operadores lógicos (and, or, not). 
-- Función input().
-- Conversión de tipos de datos.
-- Condicionales (if, elif, else).
-- Ciclo while.
+### 🟢 [Pagina_Web](./Pagina_Web)
+- Generación de servidor web
+- Utilización de Flask
+- Renderización de HTML con CSS y JS
+- Recopilación de información
 
-### 🟢 [Sesión 4: Estructuras de datos y ciclo for](./IPP_Sesion4_1S2026.ipynb)
-- Estructuras de datos: listas, tuplas y diccionarios.
-- Estrucutra de control for.
-- Controladores de flujo: break y continue
+### 🟢 [Dados_game](./dados_game.py)
+- Minijuego con interfaz grafica
+- Uso de librerías estándar
+
+### 🟢 [graph_calculator](./graph_calculator.py)
+- Ploteo 3D
+- Cálculo multivariable
+- Interfaz gráfica
+
+### 🟢 [gui_example](./gui_example.py)
+- Generación de interfaz básica sencilla
+
+### 🟢 [voice_filter](./voice_filter.py)
+- Modificación de voz
+- Librerías externas
+- Modulación de frecuencias
+- Ploteo de espectro de frecuencias
