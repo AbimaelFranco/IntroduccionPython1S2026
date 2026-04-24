@@ -1,4 +1,10 @@
 # =========================
+# INSTALACIÓN DE LIBRERÍAS
+# =========================
+
+# pip install numpy matplotlib
+
+# =========================
 # IMPORTACIÓN DE LIBRERÍAS
 # =========================
 
