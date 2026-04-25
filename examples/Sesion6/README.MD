@@ -8,14 +8,17 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ### 👁️ [Computer_Vision](./Computer_Vision)
 <p align="center">
-  <img src="../../assets/Sesion6/Computer_Vision1.png" alt="image" width="250"/>
-  <img src="../../assets/Sesion6/Computer_Vision2.png" alt="image" width="250"/>
+  <img src="../../assets/Sesion6/Computer_Vision1.png" alt="image" width="300"/>
+  <img src="../../assets/Sesion6/Computer_Vision2.png" alt="image" width="300"/>
 </p> 
 - Rastreo de mano
 - Seguimiento de puntos de referencia
 - Utilización de OpenCV y Mediapipe
 
 ### 🌐 [Pagina_Web](./Pagina_Web)
+<p align="center">
+  <img src="../../assets/Sesion6/Pagina_Web.png" alt="image" width="300"/>
+</p> 
 - Generación de servidor web
 - Utilización de Flask
 - Renderización de HTML con CSS y JS
