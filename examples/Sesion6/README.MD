@@ -7,6 +7,10 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 ## 📚 Ejemplos
 
 ### 👁️ [Computer_Vision](./Computer_Vision)
+<p align="center">
+  <img src="assets/Computer_Vision1.png" alt="image" width="800"/>
+  <img src="assets/Computer_Vision2.png" alt="image" width="800"/>
+</p> 
 - Rastreo de mano
 - Seguimiento de puntos de referencia
 - Utilización de OpenCV y Mediapipe
@@ -46,11 +50,11 @@ git clone https://github.com/AbimaelFranco/IntroduccionPython1S2026
 2. Accede al directorio del ejemplo que quieres ejecutar:
 
 ```bash
-cd examples/sesion-1
+cd .\examples\Sesion6\
 ```
 
 3. Ejecuta el script con Python:
 
 ```bash
-python nombre_del_script.py
+python .\Computer_Vision\computer_vision.py
 ```
