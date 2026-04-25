@@ -28,13 +28,17 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ### 🎲 [Dados_game](./dados_game.py)
 <p align="center">
-  <img src="../../assets/Sesion6/dados_game.png" alt="image" width="800"/>
+  <img src="../../assets/Sesion6/dados_game.png" alt="image" width="300"/>
 </p> 
 
 - Minijuego con interfaz grafica
 - Uso de librerías estándar
 
 ### 🖩 [graph_calculator](./graph_calculator.py)
+<p align="center">
+  <img src="../../assets/Sesion6/graph_calculator.png" alt="image" width="300"/>
+</p> 
+
 - Ploteo 3D
 - Cálculo multivariable
 - Interfaz gráfica
