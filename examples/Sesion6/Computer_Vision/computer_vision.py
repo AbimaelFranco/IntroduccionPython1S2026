@@ -18,7 +18,7 @@ from mediapipe.tasks.python import vision
 # =========================
 
 # Asegúrate de tener este archivo en la misma carpeta
-MODEL_PATH = "examples/hand_landmarker.task"
+MODEL_PATH = "Computer_Vision/hand_landmarker.task"
 
 # Configuración base del modelo
 base_options = python.BaseOptions(model_asset_path=MODEL_PATH)
