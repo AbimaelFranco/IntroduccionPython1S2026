@@ -18,7 +18,7 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ### 🌐 [Pagina_Web](./Pagina_Web)
 <p align="center">
-  <img src="../../assets/Sesion6/Pagina_Web.png" alt="image" width="600"/>
+  <img src="../../assets/Sesion6/Pagina_Web.png" alt="image" width="800"/>
 </p> 
 
 - Generación de servidor web
@@ -27,6 +27,10 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 - Recopilación de información
 
 ### 🎲 [Dados_game](./dados_game.py)
+<p align="center">
+  <img src="../../assets/Sesion6/dados_game.png" alt="image" width="800"/>
+</p> 
+
 - Minijuego con interfaz grafica
 - Uso de librerías estándar
 
