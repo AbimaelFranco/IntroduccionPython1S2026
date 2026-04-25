@@ -36,7 +36,7 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ### 🖩 [graph_calculator](./graph_calculator.py)
 <p align="center">
-  <img src="../../assets/Sesion6/graph_calculator.png" alt="image" width="300"/>
+  <img src="../../assets/Sesion6/graph_calculator.png" alt="image" width="450"/>
 </p> 
 
 - Ploteo 3D
@@ -44,9 +44,17 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 - Interfaz gráfica
 
 ### 📊 [gui_example](./gui_example.py)
+<p align="center">
+  <img src="../../assets/Sesion6/gui_example.png" alt="image" width="450"/>
+</p> 
+
 - Generación de interfaz básica sencilla
 
 ### 🗣️ [voice_filter](./voice_filter.py)
+<p align="center">
+  <img src="../../assets/Sesion6/voice_filter.png" alt="image" width="450"/>
+</p> 
+
 - Modificación de voz
 - Librerías externas
 - Modulación de frecuencias
