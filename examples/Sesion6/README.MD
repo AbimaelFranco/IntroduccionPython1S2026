@@ -8,8 +8,8 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ### 👁️ [Computer_Vision](./Computer_Vision)
 <p align="center">
-  <img src="assets/Sesion6/Computer_Vision1.png" alt="image" width="800"/>
-  <img src="assets/Sesion6/Computer_Vision2.png" alt="image" width="800"/>
+  <img src="../../assets/Sesion6/Computer_Vision1.png" alt="image" width="800"/>
+  <img src="../../assets/Sesion6/Computer_Vision2.png" alt="image" width="800"/>
 </p> 
 - Rastreo de mano
 - Seguimiento de puntos de referencia
