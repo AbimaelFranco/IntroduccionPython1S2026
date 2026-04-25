@@ -63,6 +63,11 @@ Este directorio contiene los ejemplos vistos durante la sesión 6.
 
 ##  🚀  Cómo ejecutar los ejemplos
 
+0. Verifica que tienes instalado python (Se recomienda la versión 3.13.3):  
+```bash
+python --version
+```
+
 1. Clona el repositorio:  
 ```bash
 git clone https://github.com/AbimaelFranco/IntroduccionPython1S2026
@@ -74,8 +79,40 @@ git clone https://github.com/AbimaelFranco/IntroduccionPython1S2026
 cd .\examples\Sesion6\
 ```
 
-3. Ejecuta el script con Python:
+3. Instala las librerías necesarias:
 
 ```bash
+pip install pip install opencv-python mediapipe numpy matplotlib sounddevice
+```
+
+4. Ejecuta el script con Python:
+
+- Computer Vision:
+```bash
 python .\Computer_Vision\computer_vision.py
+```
+
+- Pagina Web
+```bash
+python .\Pagina_Web\apps.py
+```
+
+- Dados Game
+```bash
+python .\dados_game.py
+```
+
+- Graph Calculator
+```bash
+python .\graph_calculator.py
+```
+
+- Gui Example
+```bash
+python .\gui_example.py
+```
+
+- Voice Filter
+```bash
+python .\voice_filter.py
 ```
